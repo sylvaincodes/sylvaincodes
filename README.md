@@ -1,6 +1,4 @@
 
-![Screenshot](https://github.com/sylvaincodes/sylvaincodes/blob/main/ma_photo.png)
-
 ### Salut 👋
 
 <!--
