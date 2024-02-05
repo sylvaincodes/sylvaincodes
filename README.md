@@ -28,4 +28,38 @@ Javascript - Node js.
 - 👯 Je suis interessé par les projets front end Réact js ...
 - 🤔 Je suis ouvert aux collaborations ...
 - 💬 Ecris moi sur youtube, Linkedin je te répond dans max 1min ...
-- ⚡ Mon style de musique préféré c'est Le Rap ( avec mon artiste préféré Dave Uk rap!  toi même tu connais 😄) 
+- ⚡ Mon style de musique préféré c'est Le Rap ( avec mon artiste préféré Dave Uk rap!  toi même tu connais 😄)
+
+
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+       
+        .container {
+         
+        }
+          .row {
+          display : flex;
+          flex-direction:row;
+          justify-content: space-between
+          align-items:center
+        }
+        .button{
+        padding: 20px;
+        color: white;
+        background: yellow;
+        }
+
+      </style>
+
+      <div class="row">
+          <button class="button">Réact Js</button>
+          <button class="button">Réact Js</button>
+          <button class="button">Réact Js</button>
+      </div>
+
+      
+    </div>
+  </foreignObject>
+</svg>
