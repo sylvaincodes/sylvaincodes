@@ -16,5 +16,4 @@ Javascript - Node js.
 | Express Js | ✅   
 | GraphQl | ✅  
 | Réact Native | ✅
-| Shopify | ✅
 
