@@ -14,6 +14,5 @@ Javascript - Node js.
 | Réact | ✅  
 | Tailwind CSS   | ✅  
 | Express Js | ✅   
-| GraphQl | ✅  
 | Réact Native | ✅
 
