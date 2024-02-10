@@ -12,7 +12,8 @@ Javascript - Node js.
 | Figma  | ✅   |
 | Next.js  | ✅    |
 | Réact | ✅   |
+| TypeScript | ✅ |
 | Tailwind CSS   | ✅   |
 | Express Js | ✅    |
-| Réact Native | ✅
-
+| Réact Native | ✅ |
+| GraphQl | ✅ |
