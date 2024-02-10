@@ -8,7 +8,11 @@ pour le front avec ✨Réact Js - Réact Native✨ et un Fort Intérêt pour le 
 Javascript - Node js. 
 
 ##  🛠️ Technologies et outils
-<a href="https://vercel.com/?utm_source=web3templates&amp;utm_campaign=oss" rel="nofollow"><img src="https://github.com/sylvaincodes/sylvaincodes/blob/main/nextjs-icon-dark-background.png" alt="image" style="max-width: 70%;"></a>
 
-
-<a href="https://vercel.com/?utm_source=web3templates&amp;utm_campaign=oss" rel="nofollow"><img src="https://github.com/sylvaincodes/sylvaincodes/blob/main/282599.jpg" alt="image" style="max-width: 70%;"></a>
+| Figma  | ✅  | 
+| Next.js  | ✅  | 
+| Réact | ✅  | 
+| Tailwind CSS   | ✅  |
+| Express Js | ✅  | 
+| GraphQl | ✅  | 
+| Réact Native | ✅  | 
