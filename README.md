@@ -14,6 +14,12 @@ Javascript - Node js.
 | Réact | ✅   |
 | TypeScript | ✅ |
 | Tailwind CSS   | ✅   |
+| SASS   | ✅   |
 | Express Js | ✅    |
+| Redux | ✅    |
 | Réact Native | ✅ |
 | GraphQl | ✅ |
+| MongoDB | ✅ |
+| DevOps | ✅ |
+| AWS | ✅ |
+
