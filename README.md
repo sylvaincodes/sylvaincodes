@@ -7,17 +7,22 @@ Après plus de 5 ans d’expérience en développement je suis autant à l’ais
 pour le front avec ✨Réact Js - Réact Native✨ et un Fort Intérêt pour le Back avec Php - Laravel et
 Javascript - Node js. 
 
-##  🛠️ Technologies et outils
+
+I'm a developer specialising in web and mobile, I love innovative challenges in terms of research and technological advances. 
+After more than 5 years of experience in development I am as comfortable in front as in back and mobile with a clear preference 
+for the front with ✨React Js - React Native✨ and a Strong Interest for the Back with Php - Laravel and Javascript - Node js.
+
+##  🛠️ Current Stacks
 
 | Figma  | ✅   |
 | Next.js  | ✅    |
-| Réact | ✅   |
+| React | ✅   |
 | TypeScript | ✅ |
 | Tailwind CSS   | ✅   |
 | SASS   | ✅   |
 | Express Js | ✅    |
 | Redux | ✅    |
-| Réact Native | ✅ |
+| React Native | ✅ |
 | GraphQl | ✅ |
 | MongoDB | ✅ |
 | DevOps | ✅ |
