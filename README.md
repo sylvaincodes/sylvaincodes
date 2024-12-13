@@ -20,4 +20,5 @@ I'm a Full Stack Javascript Dev.
 | MongoDB | ✅ |
 | DevOps | ✅ |
 | AWS | ✅ |
+| OWASP Testing | ✅ |
 
