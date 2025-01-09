@@ -1,21 +1,21 @@
 
 ##  👋 Hello
 
-I'm Sylaincodes, a passionate Full Stack JavaScript Developer from CANADA.
+I'm Sylvaincodes, a passionate Full Stack JavaScript Developer from Canada.
 
 ##  🛠️ Current Stacks
 
-| Figma  | ✅   |
-| Next.js  | ✅    |
-| React | ✅   |
-| NestJS  | ✅    |
+| Figma  | ✅ |
+| Next.js  | ✅ |
+| React | ✅ |
+| NestJS  | ✅ |
 | TypeScript | ✅ |
-| Tailwind CSS   | ✅   |
+| Tailwind CSS   | ✅ |
 | ShadCn | ✅ | 
 | Framer Motion | ✅ |
 | SASS   | ✅   |
-| Express Js | ✅    |
-| Redux | ✅    |
+| Express Js | ✅ |
+| Redux | ✅ |
 | React Native | ✅ |
 | GraphQl | ✅ |
 | MongoDB | ✅ |
