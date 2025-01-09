@@ -1,13 +1,14 @@
 
 ##  👋 Hello
 
-I'm a Full Stack Javascript Dev.
+I'm Sylaincodes, a passionate Full Stack JavaScript Developer from CANADA.
 
 ##  🛠️ Current Stacks
 
 | Figma  | ✅   |
 | Next.js  | ✅    |
 | React | ✅   |
+| NestJS  | ✅    |
 | TypeScript | ✅ |
 | Tailwind CSS   | ✅   |
 | ShadCn | ✅ | 
