@@ -8,7 +8,7 @@ I'm SylvainCodes, a passionate JavaScript Developer.
 const currentStack = {
   frontend: ['NextJs', 'React', 'React Native', 'Tailwind CSS', 'SASS', 'ShadCn', 'Figma' ],
   backend: ['NextJs', 'NestJS', 'Express.js'],
-  tools: ['TypeScript', 'Redux', 'Prisma'],
+  tools: ['TypeScript', 'Mongoose', 'Redux', 'Zustand', 'Prisma', 'Zod', 'Jest', 'Cypress','SWR', 'NextAuth.js', 'Clerk', 'Resend'],
   database: ['MongoDB', 'PostgreSQL'],
   architecture: ['Microservices', 'REST APIs', 'GraphQL'],
   certifications: ['IBM Full-Stack JavaScript', 'AWS Developer Associate', 'AWS DevOps Engineer', 'OWASP Cybersecurity', 'IBM IT Project Manager']
