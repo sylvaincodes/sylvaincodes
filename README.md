@@ -32,7 +32,7 @@ I'm a passionate Full-Stack JavaScript Developer with a love for creating scalab
 
 ##  Software Engineering Arsenal
 
-### 🎨 Frontend
+###  Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
