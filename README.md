@@ -22,15 +22,15 @@
 
 I'm a passionate Full-Stack JavaScript Developer with a love for creating scalable, user-centric applications. When I'm not coding, you'll find me sharing knowledge through tutorials, contributing to open source, or exploring the latest in web technologies.
 
-- 🔭 Currently working on **innovative SaaS solutions**
-- 🌱 Learning **AI/ML integration with web applications**
-- 👯 Looking to collaborate on **open source projects**
-- 💬 Ask me about **React, Next.js, and cloud architecture**
-- ⚡ Fun fact: **I write clean code, but console.log keeps me humble**
+-  Currently working on **innovative SaaS solutions**
+-  Learning **AI/ML integration with web applications**
+-  Looking to collaborate on **open source projects**
+-  Ask me about **React, Next.js, and cloud architecture**
+-  Fun fact: **I write clean code, but console.log keeps me humble**
 <br>
 
 
-## 🛠️ Software Engineering Arsenal
+##  Software Engineering Arsenal
 
 ### 🎨 Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) 
@@ -43,7 +43,7 @@ I'm a passionate Full-Stack JavaScript Developer with a love for creating scalab
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 
-### ⚙️ Backend
+###  Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) 
 ![Next.js API](https://img.shields.io/badge/Next.js_API-000000?style=flat-square&logo=next.js&logoColor=white) 
@@ -59,7 +59,7 @@ I'm a passionate Full-Stack JavaScript Developer with a love for creating scalab
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat-square&logo=microgenetics&logoColor=white)
 
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) 
@@ -73,7 +73,7 @@ I'm a passionate Full-Stack JavaScript Developer with a love for creating scalab
 ![Prometheus](https://img.shields.io/badge/Prometheus-DD0000?style=flat-square&logo=prometheus&logoColor=white)
 
 
-### 🤖 AI/ML Engineering (Models + Data + APIs)
+###  AI/ML Engineering (Models + Data + APIs)
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) 
