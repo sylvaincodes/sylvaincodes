@@ -3,7 +3,7 @@
 #  SylvainCodes
 ### Full-Stack JavaScript Developer | AI/ML Enthusiast
 
-*Turning ideas into impactful softwares, line by line*
+*Designing systems. Shipping features. Solving problems.*
 
 [![Patreon](https://img.shields.io/badge/Support-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/sylvaincodes)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sylvaincodes593)
@@ -33,6 +33,8 @@ I'm a passionate Full-Stack JavaScript Developer with a love for creating scalab
 ##  Software Engineering Arsenal
 
 ###  Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Ionic Angular](https://img.shields.io/badge/Ionic%20%2B%20Angular-3880FF?style=flat-square&logo=ionic&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
