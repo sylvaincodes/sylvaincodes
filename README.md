@@ -75,10 +75,11 @@ I’m a passionate Full-Stack JavaScript Developer who specializes in creating A
 ![Prometheus](https://img.shields.io/badge/Prometheus-DD0000?style=flat-square&logo=prometheus&logoColor=white)
 
 
-###  AI/ML Engineering (Models + Data + APIs)
+<br>
 
+##  AI/ML Engineering Arsenal
 
-**Deep Learning & ML Frameworks**  
+### **Deep Learning & ML Frameworks**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -87,7 +88,7 @@ I’m a passionate Full-Stack JavaScript Developer who specializes in creating A
 ![CoreML](https://img.shields.io/badge/CoreML-999999?style=flat-square&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
-**Data Science & Experimentation**  
+### **Data Science & Experimentation**  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0F1010?style=flat-square&logo=mlflow&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FF5C00?style=flat-square&logo=wandb&logoColor=white)
@@ -96,7 +97,7 @@ I’m a passionate Full-Stack JavaScript Developer who specializes in creating A
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
 
-**LLMs & NLP**  
+### **LLMs & NLP**  
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF9900?style=flat-square&logo=huggingface&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-0078D4?style=flat-square&logo=google&logoColor=white)
@@ -106,7 +107,7 @@ I’m a passionate Full-Stack JavaScript Developer who specializes in creating A
 ![NLTK](https://img.shields.io/badge/NLTK-8C1515?style=flat-square&logo=nltk&logoColor=white)
 ![Haystack](https://img.shields.io/badge/Haystack-00C8FF?style=flat-square&logoColor=white)
 
-**RAG & Vector Search**  
+### **RAG & Vector Search**  
 ![FAISS](https://img.shields.io/badge/FAISS-2C2C2C?style=flat-square&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-7B3FE4?style=flat-square&logo=pinecone&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/Weaviate-FF6F61?style=flat-square&logo=weaviate&logoColor=white)
@@ -114,7 +115,7 @@ I’m a passionate Full-Stack JavaScript Developer who specializes in creating A
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-9B59B6?style=flat-square&logoColor=white)
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-0052CC?style=flat-square&logo=opensearch&logoColor=white)
 
-**Prototyping & Web UI**  
+### **Prototyping & Web UI**  
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-1DA1F2?style=flat-square&logo=gradio&logoColor=white)
 ![Dash](https://img.shields.io/badge/Dash-0085CA?style=flat-square&logo=dash&logoColor=white)
