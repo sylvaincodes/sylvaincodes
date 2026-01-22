@@ -16,7 +16,7 @@
 
 <br>
 
-## 👨‍💻 About Me
+## About Me
 
 > **Building the future, one commit at a time**
 
@@ -126,7 +126,31 @@ I’m a passionate Full-Stack JavaScript Developer who specializes in creating A
 
 ##  Latest projects
 
-### SASS AI Goal Tracker
+### SASS Multi-Tenant AI Knowledge Assistant (January 2026)
+
+Make your company knowledge instantly accessible with AI!
+
+The Multi-Tenant AI Knowledge Assistant is an intelligent platform that turns your company’s documentation into a searchable, AI-powered knowledge base. Employees can ask questions and get precise answers backed by your internal documents, onboarding guides, and department-specific content.
+
+Key features powered by AI:
+
+- 📚 RAG-Powered Search: Retrieves the most relevant document chunks using vector embeddings and Qdrant.
+
+- 🤖 Generative AI Answers: Uses Gemini / LangChain to generate context-aware answers directly from your knowledge base.
+
+- 🔐 Role & Department Filters: Ensures employees only see what they are allowed to, protecting sensitive company data.
+
+- 🛠️ Multi-Role Support: HR, Admin, Employee, and Platform Admin roles with tailored access and insights.
+
+- 💾 Document Management: Upload, categorize, and manage internal documents with metadata for quick retrieval.
+
+- 📊 Analytics & Usage Tracking: Monitor queries, document usage, and AI response performance.
+
+<a href="https://ai-assistant-knowledge.vercel.app" target="_blank">Explore the AI Knowledge Assistant</a>
+
+<br>
+
+### SASS AI Goal Tracker (September 2025)
 
 **Achieve your goals faster with AI motivation!**  
 
@@ -147,27 +171,7 @@ Key features powered by AI:
 <br>
 
 
-### SASS Multi-Tenant AI Knowledge Assistant
 
-Make your company knowledge instantly accessible with AI!
-
-The Multi-Tenant AI Knowledge Assistant is an intelligent platform that turns your company’s documentation into a searchable, AI-powered knowledge base. Employees can ask questions and get precise answers backed by your internal documents, onboarding guides, and department-specific content.
-
-Key features powered by AI:
-
-- 📚 RAG-Powered Search: Retrieves the most relevant document chunks using vector embeddings and Qdrant.
-
-- 🤖 Generative AI Answers: Uses Gemini / LangChain to generate context-aware answers directly from your knowledge base.
-
-- 🔐 Role & Department Filters: Ensures employees only see what they are allowed to, protecting sensitive company data.
-
-🛠️ Multi-Role Support: HR, Admin, Employee, and Platform Admin roles with tailored access and insights.
-
-- 💾 Document Management: Upload, categorize, and manage internal documents with metadata for quick retrieval.
-
-- 📊 Analytics & Usage Tracking: Monitor queries, document usage, and AI response performance.
-
-<a href="https://ai-assistant-knowledge.vercel.app" target="_blank">Explore the AI Knowledge Assistant</a>
 
 <br>
 
