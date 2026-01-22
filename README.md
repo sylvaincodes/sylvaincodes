@@ -22,7 +22,7 @@
 
 I’m a passionate Full-Stack JavaScript Developer who specializes in creating AI-driven systems, building scalable applications, and integrating intelligent models seamlessly into the JavaScript ecosystem.
 
-- Building <strong>intelligent SaaS ecosystems</strong> powered by agentic AI workflows (<a href="https://goaltracker.life" target="_blank">example projects</a>)
+- Building <strong>intelligent SaaS ecosystems</strong> powered by agentic AI workflows (<a href="https://goaltracker.life" target="_blank">[example project1](https://goaltracker.life)</a>, <a href="https://goaltracker.life" target="_blank">[example project2](https://ai-assistant-knowledge.vercel.app)</a>)
 - Mastering **on-device ML** & optimized **RAG pipelines** for JavaScript
 - Exploring **AI agents, real-time data streaming, and full-stack performance optimization**
 - Fun fact: I architect complex neural networks, but still spend 10 minutes looking for a missing semicolon
@@ -126,21 +126,51 @@ I’m a passionate Full-Stack JavaScript Developer who specializes in creating A
 
 ##  Latest projects
 
-### 🎯 GoalTracker – AI Goal Tracker
+### SASS AI Goal Tracker
 
 **Achieve your goals faster with AI motivation!**  
 
 GoalTracker is an intelligent goal-tracking app that **helps users set, monitor, and achieve their personal goals**. It adds accountability by letting users **stake money on achieving goals**, so there’s real motivation to follow through.  
 
 Key features powered by AI:  
-- 🤖 **Computer Vision Insights:** Analyze profile images, videos, or progress photos to track improvements and engagement.  
-- 📊 **AI Progress Analytics:** Automatically assess goal completion trends and provide actionable feedback.  
-- 💸 **Goal Staking System:** Commit money to your goals—earn rewards when you succeed, lose it when you slip.  
+
+- 🤖 **Computer Vision Insights:** Analyze profile images, videos, or progress photos to track improvements and engagement.
+  
+- 📊 **AI Progress Analytics:** Automatically assess goal completion trends and provide actionable feedback.
+  
+- 💸 **Goal Staking System:** Commit money to your goals—earn rewards when you succeed, lose it when you slip.
+  
 - 🔔 **Smart Reminders:** Personalized nudges and encouragement to keep you on track.  
 
 <a href="https://goaltracker.life" target="_blank">Try GoalAI Now</a>
 
 <br>
+
+
+### SASS Multi-Tenant AI Knowledge Assistant
+
+Make your company knowledge instantly accessible with AI!
+
+The Multi-Tenant AI Knowledge Assistant is an intelligent platform that turns your company’s documentation into a searchable, AI-powered knowledge base. Employees can ask questions and get precise answers backed by your internal documents, onboarding guides, and department-specific content.
+
+Key features powered by AI:
+
+- 📚 RAG-Powered Search: Retrieves the most relevant document chunks using vector embeddings and Qdrant.
+
+- 🤖 Generative AI Answers: Uses Gemini / LangChain to generate context-aware answers directly from your knowledge base.
+
+- 🔐 Role & Department Filters: Ensures employees only see what they are allowed to, protecting sensitive company data.
+
+🛠️ Multi-Role Support: HR, Admin, Employee, and Platform Admin roles with tailored access and insights.
+
+- 💾 Document Management: Upload, categorize, and manage internal documents with metadata for quick retrieval.
+
+- 📊 Analytics & Usage Tracking: Monitor queries, document usage, and AI response performance.
+
+<a href="https://ai-assistant-knowledge.vercel.app" target="_blank">Explore the AI Knowledge Assistant</a>
+
+<br>
+
 
 
 <div align="center">
