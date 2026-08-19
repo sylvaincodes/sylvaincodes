@@ -22,7 +22,7 @@
 
 I’m a passionate Full-Stack JavaScript Developer who specializes in creating AI-driven systems, building scalable applications, and integrating intelligent models seamlessly into the JavaScript ecosystem.
 
-- Building <strong>intelligent SaaS ecosystems</strong> powered by agentic AI workflows (<a href="https://goaltracker.life" target="_blank">[example project1](https://goaltracker.life)</a>, <a href="https://goaltracker.life" target="_blank">[example project2](https://ai-assistant-knowledge.vercel.app)</a>)
+- Building <strong>intelligent SaaS ecosystems</strong> powered by agentic AI workflows (<a href="https://goaltracker.life" target="_blank">[example project1](https://goaltracker.life)</a>, <a href="https://goaltracker.life" target="_blank">[example project2](https://ai-assistant-knowledge.vercel.app)</a>, <a href="https://openschools.app" target="_blank">[example project3](https://openschools.app)</a>)
 - Mastering **on-device ML** & optimized **RAG pipelines** for JavaScript
 - Exploring **AI agents, real-time data streaming, and full-stack performance optimization**
 - Fun fact: I architect complex neural networks, but still spend 10 minutes looking for a missing semicolon
@@ -124,7 +124,26 @@ I’m a passionate Full-Stack JavaScript Developer who specializes in creating A
 
 <br>
 
+
 ##  Latest projects
+
+### Community Platform: OpenSchools.app (August 2026)
+
+Build and monetize your own community, without the complexity!
+
+OpenSchools.app is a community platform inspired by platforms like Skool, designed to let anyone create and run their own online community for free. Community owners can build a space around their audience, share content, engage members, and monetize their communities through paid memberships.
+
+Key features:
+
+- 🌐 Create Communities: Anyone can launch their own community and customize it around their niche, audience, or business.
+- 💰 Free & Paid Communities: Creators can choose to offer their communities for free or charge members for access.
+- 💳 Creator Monetization: Community owners can earn revenue from paid memberships while OpenSchools.app charges only platform fees.
+- 👥 Community Management: Manage members, content, discussions, and access from a centralized dashboard.
+- 📚 Content & Learning: Give communities a place to share educational resources, posts, and valuable content.
+Creator-First Platform: Built to make launching and growing an online community accessible without requiring technical expertise.
+<a href="https://openschools.app" target="_blank">Explore OpenSchools.app</a>
+
+<br>
 
 ### SASS Multi-Tenant AI Knowledge Assistant (January 2026)
 
